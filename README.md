@@ -1,2 +1,10 @@
 # IssueTracker
-Full Stack web application for tracking issues created with ASP.Net MVC
+Issue Tracker is a web application that works tracks issues.
+
+Technologies used
+Asp.net MVC
+HTML 
+CSS
+Bootstrap
+Javascript
+C#
