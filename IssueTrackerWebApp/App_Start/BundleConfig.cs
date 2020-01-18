@@ -25,6 +25,18 @@ namespace IssueTrackerWebApp
             bundles.Add(new StyleBundle("~/Content/css").Include(
                       "~/Content/bootstrap.css",
                       "~/Content/site.css"));
+            bundles.Add(new StyleBundle("~/Content/login").Include(
+                      "~/Content/bootstrap.css",
+                      "~/Content/login.css",
+                      "~/Content/font-awesome.css"));
+            bundles.Add(new StyleBundle("~/Content/register").Include(
+                      "~/Content/bootstrap.css",
+                      "~/Content/login.css",
+                      "~/Content/font-awesome.css"));
+
+
+
+
         }
     }
 }
