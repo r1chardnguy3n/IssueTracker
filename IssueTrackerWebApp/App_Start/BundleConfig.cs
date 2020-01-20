@@ -31,7 +31,7 @@ namespace IssueTrackerWebApp
                       "~/Content/font-awesome.css"));
             bundles.Add(new StyleBundle("~/Content/register").Include(
                       "~/Content/bootstrap.css",
-                      "~/Content/login.css",
+                      "~/Content/register.css",
                       "~/Content/font-awesome.css"));
 
 
